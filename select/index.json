@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "SHINY DAYS",
+  "base_artist": "亜咲花",
+  "createdAt": "2025-12-24T14:53:23.584880Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Shiny Days",
+      "artist": "Asaka",
+      "has_synced": true,
+      "path": "select/01_Shiny_Days_Asaka.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "SHINY DAYS - TV SIZE",
+      "artist": "ASAKA",
+      "has_synced": true,
+      "path": "select/02_SHINY_DAYS_-_TV_SIZE_ASAKA.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "SHINY DAYS (TV SIZE)",
+      "artist": "Asaka",
+      "has_synced": true,
+      "path": "select/03_SHINY_DAYS_(TV_SIZE)_Asaka.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "SHINY DAYS From 19th Birthday LIVE 〜Make It Happen LTB〜",
+      "artist": "亜咲花",
+      "has_synced": true,
+      "path": "select/04_SHINY_DAYS_From_19th_Birthday_LIVE_〜Make_It_Happen_LTB〜_亜咲花.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Shiny Days",
+      "artist": "Asaka",
+      "has_synced": true,
+      "path": "select/05_Shiny_Days_Asaka.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Shiny Days (Yuru Camp OP 1)",
+      "artist": "Megami33",
+      "has_synced": true,
+      "path": "select/06_Shiny_Days_(Yuru_Camp_OP_1)_Megami33.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "SHINY DAYS (TV SIZE)",
+      "artist": "Asaka",
+      "has_synced": true,
+      "path": "select/07_SHINY_DAYS_(TV_SIZE)_Asaka.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "いつか Shiny Days -25 colors-",
+      "artist": "シャイニーカラーズ",
+      "has_synced": true,
+      "path": "select/08_いつか_Shiny_Days_-25_colors-_シャイニーカラーズ.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "SHINY DAYS",
+      "artist": "Asaka",
+      "has_synced": true,
+      "path": "select/09_SHINY_DAYS_Asaka.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "SHINY DAYS",
+      "artist": "Asaka",
+      "has_synced": true,
+      "path": "select/10_SHINY_DAYS_Asaka.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Shiny Days",
+      "artist": "Anni B Sweet",
+      "has_synced": false,
+      "path": "select/11_Shiny_Days_Anni_B_Sweet.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Shiny Days",
+      "artist": "T-BOLAN",
+      "has_synced": false,
+      "path": "select/12_Shiny_Days_T-BOLAN.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "SHINY DAYS",
+      "artist": "亜咲花",
+      "has_synced": false,
+      "path": "select/pl_01_SHINY_DAYS_亜咲花.txt"
+    }
+  ]
+}
